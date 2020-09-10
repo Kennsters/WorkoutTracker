@@ -1,1 +1,3 @@
-# WorkoutTracker
+# WorkoutTracker Assignment
+
+### Assignment Description
